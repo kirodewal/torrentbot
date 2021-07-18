@@ -5,3 +5,4 @@ ffmpeg
 requests
 ytdl
 pyrogram
+ujson
