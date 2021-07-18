@@ -5,4 +5,4 @@ ffmpeg
 requests
 ytdl
 pyrogram
-ujson
+ujson - 1.35
